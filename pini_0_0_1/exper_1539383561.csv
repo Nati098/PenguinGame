@@ -1,0 +1,16 @@
+Time,Actor,Action,Hunger,Energy,Fun,RelTime,Actor,Action,Hunger,Energy,Fun,Rel0.650,player,FREE,50,50,50,50
+1.270,player,FREE,50,48,53,54
+2.126,player,FREE,50,48,53,54
+2.880,player,FREE,47,43,58,59
+3.413,player,FREE,47,43,58,59
+4.184,player,COMMAND,47,43,58,59
+7.005,penguin,moved to CM,46,42,57,59
+7.785,penguin,moved to matress,46,42,57,59
+7.824,penguin,matress,46,47,62,59
+7.862,penguin,matress,46,52,67,59
+7.901,penguin,matress,46,57,72,59
+8.690,penguin,moved to CM,45,56,71,59
+9.298,player,FREE,45,56,71,59
+9.508,penguin,moved to matress,45,56,71,59
+9.992,player,FREE,45,56,71,59
+10.033,player,game_over,45,56,71,59

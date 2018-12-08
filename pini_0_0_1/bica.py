@@ -1,6 +1,6 @@
 import math
 
-
+# модель на bica
 class Bica:
     R = 0.05              # model parameter from "Samsonovich, 2013" paper
     pen_state = [0,-1] # valence, dominance

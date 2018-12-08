@@ -1,0 +1,56 @@
+[2][]{'cave': 0, 'matress': 0, 'food': 0, 'DULL': 0, 'hill': 0, 'balls': 0}[50, 50, 50, 50]2.025176763534546=== Experiment ends ===
+
+[1][]{'cave': 0, 'matress': 0, 'food': 0, 'DULL': 0, 'hill': 0, 'balls': 0}[50, 50, 50, 50]1.9811747074127197=== Experiment ends ===
+
+[3, 1, 2, 2, 2, 2, 1, 0, 1, 3, 2, 2, 3, 2, 2, 2, 2, 2, 2, 2]['THREATEN', 'BALL']{'cave': 0, 'matress': 1, 'food': 0, 'DULL': 0, 'hill': 1, 'balls': 0}[27, 30, 49, 51]71.95239019393921=== Experiment ends ===
+
+[2, 2, 1, 1, 1, 1, 0, 1]['FISH', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT']{'cave': 0, 'matress': 0, 'food': 0, 'DULL': 0, 'hill': 0, 'balls': 0}[48, 69, -45, -38]35.81057333946228=== Experiment ends ===
+
+[1, 0, 1, 2, 1, 1, 3, 2, 3, 2, 0, 1, 0, 2, 2, 1, 2]['BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BALL', 'FISH', 'FISH', 'BOOT', 'TICKLE', 'TICKLE', 'TICKLE', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'BALL', 'BALL']{'cave': 1, 'matress': 0, 'food': 0, 'DULL': 0, 'hill': 1, 'balls': 0}[40, 49, 19, 23]55.543657541275024=== Experiment ends ===
+
+[3, 0, 0, 2, 0, 0, 0, 0, 0, 3, 3, 0][]{'cave': 0, 'matress': 0, 'food': 0, 'DULL': 0, 'hill': 0, 'balls': 2}[40, 32, 66, 50]21.01372003555298=== Experiment ends ===
+
+[1, 2, 0, 1, 0, 3, 0, 1, 2, 2, 3, 2, 0, 3, 1, 1, 2, 3, 0, 1, 2, 1, 1, 0, 1, 1, 2, 0, 2, 2, 1, 2, 2, 3, 0, 1, 1, 1, 0, 3, 0, 2, 3, 2, 2, 0, 1, 0, 3, 0, 1, 3, 2, 3, 1, 1]['BOOT', 'BALL', 'FISH', 'TICKLE', 'THREATEN', 'CARESS', 'FISH']{'cave': 0, 'matress': 2, 'food': 1, 'DULL': 0, 'hill': 1, 'balls': 1}[34, 24, 65, 58]114.59996342658997=== Experiment ends ===
+
+[0, 1, 0, 1, 1, 1, 2, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 0, 0, 0, 0, 0, 1, 3, 0, 1, 1, 0, 0, 0]['BOOT', 'BOOT', 'BOOT', 'BALL', 'THREATEN', 'TICKLE', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'TICKLE', 'TICKLE', 'TICKLE', 'CARESS', 'CARESS', 'THREATEN', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'THREATEN', 'THREATEN', 'BOOT', 'BOOT', 'BOOT', 'THREATEN', 'THREATEN', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'THREATEN']{'cave': 1, 'matress': 2, 'food': 0, 'DULL': 0, 'hill': 1, 'balls': 0}[-39, 34, -123, -96]294.677472114563=== Experiment ends ===
+
+[0, 1, 2, 3, 0, 0, 0, 3, 1, 2, 2, 0, 1, 1, 1, 2, 2, 0, 1, 1, 1, 2, 2, 0, 1, 1, 1, 2, 2, 0, 1, 1, 1, 2, 2, 0, 1, 1, 1, 2, 2, 0, 1, 1, 1, 2, 2, 0, 1, 1, 1, 2, 2, 0, 1, 1, 1, 2][]{'cave': 0, 'matress': 0, 'food': 1, 'DULL': 0, 'hill': 0, 'balls': 1}[8, -3, 14, 50]205.12514281272888=== Experiment ends ===
+
+[0, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 3, 2, 3, 0, 1, 1, 0, 3, 0, 3, 1, 2, 2, 3, 0, 3, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1]['BOOT', 'BALL', 'CARESS']{'cave': 2, 'matress': 7, 'food': 1, 'DULL': 0, 'hill': 0, 'balls': 5}[21, 41, 112, 52]112.17490100860596=== Experiment ends ===
+
+[0, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 0, 0, 0, 3, 0, 3, 0, 1, 0, 3, 2, 3, 0, 1, 1, 3, 1, 2]['TICKLE', 'THREATEN']{'cave': 1, 'matress': 4, 'food': 1, 'DULL': 0, 'hill': 0, 'balls': 5}[20, 26, 100, 50]104.16532373428345=== Experiment ends ===
+
+[0, 0, 3, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1]['TICKLE', 'THREATEN', 'CARESS']{'cave': 0, 'matress': 1, 'food': 1, 'DULL': 0, 'hill': 0, 'balls': 3}[40, 30, 85, 54]33.70605397224426=== Experiment ends ===
+
+[0, 0, 3, 0, 3, 1, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1]['TICKLE']{'cave': 0, 'matress': 2, 'food': 1, 'DULL': 0, 'hill': 0, 'balls': 2}[44, 42, 79, 54]40.321244955062866=== Experiment ends ===
+
+[0, 0, 1, 3, 1, 3, 1, 3, 1, 3, 1, 2, 2, 3, 0, 1][]{'cave': 0, 'matress': 1, 'food': 0, 'DULL': 0, 'hill': 2, 'balls': 2}[38, 29, 89, 50]26.66203474998474=== Experiment ends ===
+
+[0, 0, 3, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2]['THREATEN', 'TICKLE', 'CARESS', 'CARESS', 'CARESS', 'BALL', 'BALL', 'BALL', 'BALL']{'cave': 0, 'matress': 3, 'food': 1, 'DULL': 0, 'hill': 0, 'balls': 5}[11, -9, 130, 84]110.62076568603516=== Experiment ends ===
+
+[0, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 0, 0, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1]['BALL', 'CARESS', 'CARESS']{'cave': 0, 'matress': 7, 'food': 1, 'DULL': 0, 'hill': 0, 'balls': 7}[-2, -8, 131, 63]163.58003640174866=== Experiment ends ===
+
+[0, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 0, 0, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 0, 1, 3, 0, 1, 1, 3, 1, 3, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0]['CARESS', 'TICKLE', 'CARESS', 'CARESS', 'BALL']{'cave': 0, 'matress': 10, 'food': 1, 'DULL': 0, 'hill': 1, 'balls': 11}[-34, -43, 185, 71]249.41311645507812=== Experiment ends ===
+
+[0, 0, 3, 0, 3, 1, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1]['TICKLE', 'CARESS', 'FISH', 'CARESS', 'TICKLE', 'BALL', 'FISH', 'TICKLE', 'THREATEN', 'TICKLE', 'TICKLE', 'CARESS', 'BALL', 'BALL', 'FISH', 'BALL', 'BALL', 'CARESS', 'COMMAND', 'TICKLE', 'CARESS', 'FISH']{'cave': 0, 'matress': 9, 'food': 1, 'DULL': 0, 'hill': 0, 'balls': 9}[-16, -33, 221, 127]198.66468715667725=== Experiment ends ===
+
+[0, 0, 3, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 2, 3, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 0, 0, 0, 3, 0, 3, 0, 1, 0, 3, 2, 2, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 1, 0]['FISH', 'TICKLE', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'BALL', 'FISH', 'BOOT', 'BOOT', 'BOOT', 'THREATEN', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'FISH', 'BOOT', 'FISH', 'BOOT', 'BOOT', 'BOOT', 'BALL', 'BOOT']{'cave': 2, 'matress': 3, 'food': 10, 'DULL': 0, 'hill': 0, 'balls': 14}[82, 3, 70, -74]189.30603694915771=== Experiment ends ===
+
+[0, 0, 3, 0, 1, 0, 3, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 1, 0, 3, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 0, 0, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 1, 3, 1, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 3, 0, 0, 1, 0, 3, 0, 0, 0, 3, 0, 3, 0, 3, 0]['TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'THREATEN', 'COMMAND', 'BOOT', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'THREATEN', 'CARESS', 'TICKLE', 'TICKLE', 'CARESS', 'TICKLE', 'CARESS', 'CARESS', 'TICKLE', 'CARESS', 'TICKLE', 'THREATEN', 'TICKLE', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'BOOT', 'BOOT', 'FREE', 'BALL', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'FISH', 'BOOT', 'BOOT', 'BALL']{'cave': 3, 'matress': 2, 'food': 16, 'DULL': 0, 'hill': 1, 'balls': 17}[65, 40, 252, 41]219.24473452568054=== Experiment ends ===
+
+[0, 0, 3, 0, 3, 0, 3, 1, 2, 1, 3, 1, 0, 1, 3, 0, 1, 1, 3, 1, 2, 1, 3, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 1, 3, 1, 0, 1, 1, 2, 1, 3, 1, 0, 1, 3, 0, 1, 1, 3, 0, 3, 1, 3, 0, 1]['FISH', 'FISH', 'BALL', 'BOOT', 'CARESS', 'FISH', 'BOOT', 'BOOT', 'BOOT', 'BALL', 'BALL', 'BALL', 'BALL', 'FISH']{'cave': 0, 'matress': 4, 'food': 2, 'DULL': 0, 'hill': 4, 'balls': 6}[14, -40, 145, 63]202.1207709312439=== Experiment ends ===
+
+[0, 0, 3, 0, 3, 1, 1, 2, 1, 3, 1, 0, 0, 1, 3, 1, 3, 1, 0, 2, 3, 1, 0, 0, 3, 1, 2, 1, 3, 1, 0, 0, 3, 1, 0, 2, 3, 1, 0, 0, 3, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 0, 2, 3, 0, 0, 0, 3, 0, 3, 0, 1, 0, 3, 2, 2, 0, 3, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 1]['FISH', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'TICKLE', 'BALL', 'CARESS', 'CARESS', 'CARESS', 'CARESS', 'BOOT']{'cave': 2, 'matress': 2, 'food': 4, 'DULL': 0, 'hill': 5, 'balls': 10}[4, -14, 279, 143]219.03404450416565=== Experiment ends ===
+
+[0, 0, 3, 1, 3, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 0, 0, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 0, 1, 0, 3, 2, 2, 0, 3, 0, 0]['CARESS', 'CARESS', 'CARESS', 'THREATEN', 'BALL', 'FISH', 'CARESS', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BOOT', 'BALL', 'FISH', 'FISH', 'BOOT']{'cave': 1, 'matress': 3, 'food': 1, 'DULL': 0, 'hill': 1, 'balls': 6}[26, 14, 56, -8]119.92483615875244=== Experiment ends ===
+
+[0, 0, 3, 0, 0, 3, 1, 2, 0, 0, 0, 3, 0, 3, 1, 3, 1, 0, 0, 0, 3, 0, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 1, 1, 3, 1, 0, 0, 3, 1, 2, 0, 2, 3, 2, 3, 0, 1]['CARESS', 'BALL', 'FISH', 'BOOT', 'THREATEN', 'COMMAND', 'BALL', 'FISH', 'TICKLE', 'FISH', 'BALL', 'FISH', 'CARESS', 'FISH', 'BALL']{'cave': 1, 'matress': 2, 'food': 2, 'DULL': 0, 'hill': 2, 'balls': 6}[41, -15, 158, 88]108.29351210594177=== Experiment ends ===
+
+[0, 0, 3, 1, 2, 2, 2, 0, 3, 0, 3, 0, 3, 0, 1, 0, 3, 0, 0, 0, 3, 0, 3, 0, 3, 0, 3, 1, 3, 1, 3, 1, 2, 2, 3, 2, 3, 0, 3, 1, 2, 2, 3, 0, 1]['THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'THREATEN', 'FREE', 'THREATEN', 'BOOT', 'BOOT', 'BOOT', 'CARESS', 'CARESS']{'cave': 1, 'matress': 2, 'food': 4, 'DULL': 0, 'hill': 1, 'balls': 7}[25, 18, 79, -7]115.68104791641235=== Experiment ends ===
+
+[0, 0, 3, 0, 1, 0, 3, 2, 2, 0, 3, 1, 2, 2, 3, 0, 1, 1, 0, 3, 0, 3, 0, 1, 0, 3, 2, 2]['FREE', 'CARESS', 'BALL', 'BOOT', 'COMMAND', 'COMMAND', 'CARESS', 'FISH', 'THREATEN', 'BOOT', 'TICKLE', 'BALL', 'FISH']{'cave': 2, 'matress': 1, 'food': 1, 'DULL': 0, 'hill': 0, 'balls': 3}[39, 31, 79, 60]74.68388080596924=== Experiment ends ===
+
+[0, 0, 3, 1, 2, 2, 3, 0, 1, 0, 2, 3, 1, 3, 1, 0, 2, 3, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 3, 1, 3, 1, 3, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1]['CARESS', 'TICKLE', 'FISH', 'BOOT', 'TICKLE', 'TICKLE', 'THREATEN', 'FREE', 'THREATEN', 'COMMAND', 'FREE', 'COMMAND', 'COMMAND', 'COMMAND', 'CARESS', 'CARESS', 'TICKLE', 'FREE', 'FREE', 'FREE', 'FREE', 'TICKLE', 'COMMAND', 'THREATEN']{'cave': 0, 'matress': 8, 'food': 0, 'DULL': 0, 'hill': 4, 'balls': 11}[-33, -34, 217, 66]191.51624393463135=== Experiment ends ===
+
+[0, 0, 3, 1, 3, 1, 3, 1, 2, 2, 3, 0, 1, 0, 2, 3, 1, 0, 1, 0, 2, 3, 0, 3, 2, 3, 0, 1, 1, 3, 1, 2, 2, 3, 0, 1]['CARESS', 'BOOT']{'cave': 1, 'matress': 4, 'food': 0, 'DULL': 0, 'hill': 2, 'balls': 3}[27, 36, 99, 47]98.40992832183838=== Experiment ends ===
+

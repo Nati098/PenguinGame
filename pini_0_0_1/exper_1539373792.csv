@@ -1,6 +1,0 @@
-Time,Actor,Action,Hunger,Energy,Fun,Rel,Pen_Val,Pen_Dom,Hand_Val,Hand_DomTime,Actor,Action,Hunger,Energy,Fun,Rel,Pen_Val,Pen_Dom,Hand_Val,Hand_Dom0.564,player,FREE,50,50,50,50,0,-1,0,1
-1.224,player,FREE,48,51,47,46,0,-1,0,1
-1.843,penguin,moved to BH,48,51,47,46,0,-1,0,1
-1.925,player,FREE,48,51,47,46,0,-1,0,1
-2.532,player,FREE,48,51,47,46,0,-1,0,1
-2.571,player,game_over,48,51,47,46,0,-1,0,1
